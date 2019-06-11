@@ -19,6 +19,8 @@ o F5 desde el Visual Code
 
 Comando para ejecutar la solucion de Angular 8
 
+todo-app>npm install
+
 todo-app>npm start
 
 
