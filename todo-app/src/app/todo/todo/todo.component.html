@@ -1,0 +1,12 @@
+<div class="custom-control custom-checkbox">
+  <input type="checkbox" class="custom-control-input" [id]="todo.id" [checked]="todo.estaResuelta"
+    (change)="editarEstado($event.target.checked)">
+
+  <label class="custom-control-label" [for]="todo.id"
+    [ngClass]="{'todoCompletado': todo.estaResuelta}">{{todo.descripcion}}</label>
+</div>
+<div>
+  <a [href]="archivoUrl" download="{{todo.descripcion}}.jpeg">
+    <img [src]="'data:image/jpeg;base64,'+ todo.archivo" class="todoImagen" />Descargar
+  </a>
+</div>

@@ -1,0 +1,9 @@
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\bin\Debug\netstandard2.0\Todos.Bll.deps.json
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\bin\Debug\netstandard2.0\Todos.Bll.dll
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\bin\Debug\netstandard2.0\Todos.Bll.pdb
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.csprojAssemblyReference.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.csproj.CoreCompileInputs.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.AssemblyInfoInputs.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.AssemblyInfo.cs
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.dll
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Bll\obj\Debug\netstandard2.0\Todos.Bll.pdb

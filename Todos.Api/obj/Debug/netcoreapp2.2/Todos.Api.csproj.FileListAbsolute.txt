@@ -1,0 +1,17 @@
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Api.deps.json
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Api.runtimeconfig.json
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Api.runtimeconfig.dev.json
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Api.dll
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Api.pdb
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Bll.dll
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\bin\Debug\netcoreapp2.2\Todos.Bll.pdb
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.csprojAssemblyReference.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.csproj.CoreCompileInputs.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.RazorAssemblyInfo.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.RazorAssemblyInfo.cs
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.AssemblyInfoInputs.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.AssemblyInfo.cs
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.RazorTargetAssemblyInfo.cache
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.csproj.CopyComplete
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.dll
+C:\Users\nseve\Documents\mavha\backend\Todos\Todos.Api\obj\Debug\netcoreapp2.2\Todos.Api.pdb

@@ -1,0 +1,18 @@
+<div class="card">
+  <h5 class="card-header text-center">Crear nuevo todo</h5>
+  <div class="card-body">
+    <form [formGroup]="crearTodoForm" (ngSubmit)="crearNuevoTodo()" (keydown.enter)="crearNuevoTodo()">
+      <div class="form-group">
+        <input type="text" class="form-control form-control-sm" autocomplete="off" id="descripcion"
+          placeholder="Descripcion" formControlName="descripcion" required>
+      </div>
+
+      <div class="form-group">
+        <input type="file" class="form-control-file form-control-sm" id="archivo" formControlName="archivo"
+          accept="image/*" (change)="seleccionarArchivo($event)" required>
+      </div>
+
+      <button type="submit" class="btn btn-sm btn-secondary btn-block" [disabled]="!crearTodoForm.valid">Crear</button>
+    </form>
+  </div>
+</div>
